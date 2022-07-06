@@ -2,4 +2,5 @@
 Tic Tac Toe game for jetbrains academy project
 
 
-find the task/src directory and check out main.java . This was from a JetBrains academy activity.
+check out Simple-Tic-Tac-Toe/Simple Tic-Tac-Toe/task/src/tictactoe/main.java . This was from a JetBrains academy activity.
+
